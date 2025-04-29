@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    text-decoration: none;
+}
+body{
+    background-color: blue;
+    justify-content: center;
+}
+header{
+    display: flex;  
+    justify-content: center;
+    align-items: center ;
+    background-color: antiquewhite;
+    height: 100px;
+}
+.meio{
+    display: flex;  
+    justify-content: center;
+    align-items: center ;
+    background-color: antiquewhite;
+    width: 80%;
+
+}
